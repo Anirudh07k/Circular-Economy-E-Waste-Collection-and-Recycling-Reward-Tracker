@@ -1,0 +1,2 @@
+AARSM|Aarav|Smartphone:3,Laptop:2,Charger:2,Keyboard:1|8|5.83|MEDIUM|305.97
+101|Anirudh|Laptop:2|2|4.40|MEDIUM|242.00
